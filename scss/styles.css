@@ -275,7 +275,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
-  background: url(../images/lead-bg.jpg);
+  background-image: url(../images/lead-bg.jpg);
   background-size: cover;
   padding: 15px;
   overflow: hidden;
@@ -289,6 +289,7 @@ footer {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
 #lead-content h1, #lead-content h2 {
   margin: 0;
 }
